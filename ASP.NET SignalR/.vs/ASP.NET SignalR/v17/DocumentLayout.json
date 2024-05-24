@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3FA65DE-7FAF-44C9-990D-C0840C62621C}|Client\\Client.csproj|c:\\users\\eremeevad\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\asp.net signalr\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F3FA65DE-7FAF-44C9-990D-C0840C62621C}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3FA65DE-7FAF-44C9-990D-C0840C62621C}|Client\\Client.csproj|C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3FA65DE-7FAF-44C9-990D-C0840C62621C}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,30 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\Client\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\Client\\MainWindow.xaml",
-              "RelativeToolTip": "Client\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-24T11:45:51.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\Client\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\Client\\MainWindow.xaml.cs",
               "RelativeToolTip": "Client\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T11:45:51.283Z"
+              "WhenOpened": "2024-05-24T11:45:51.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\ASP.NET SignalR\\ChatHub.cs",
               "RelativeDocumentMoniker": "ASP.NET SignalR\\ChatHub.cs",
@@ -62,11 +47,12 @@
               "RelativeToolTip": "ASP.NET SignalR\\ChatHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T10:59:12.891Z"
+              "WhenOpened": "2024-05-24T10:59:12.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eremeevad\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\ASP.NET SignalR\\ASP.NET SignalR\\Program.cs",
               "RelativeDocumentMoniker": "ASP.NET SignalR\\Program.cs",
@@ -74,7 +60,8 @@
               "RelativeToolTip": "ASP.NET SignalR\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T10:54:27.773Z"
+              "WhenOpened": "2024-05-24T10:54:27.773Z",
+              "EditorCaption": ""
             }
           ]
         }
