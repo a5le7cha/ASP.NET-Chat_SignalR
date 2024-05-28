@@ -29,7 +29,7 @@ namespace Client
             InitializeComponent();
 
             hubConnection = new HubConnectionBuilder()
-                .WithUrl("https://localhost:7064/chat")
+                .WithUrl("http://localhost:5053/chat")
                 .Build();
 
             hubConnection.On<string, string>("Receive", (user, Message) =>

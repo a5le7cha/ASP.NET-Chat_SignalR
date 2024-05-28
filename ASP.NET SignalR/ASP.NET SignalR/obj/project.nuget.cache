@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zgi/bD4i/THIVviQOOMgAJeKfj91h6OTt+Uo2cizWgtHJRlTPm/Q0kvYRoIWZv3PyvS96/5YOhR7kzyXqV2bBA==",
+  "dgSpecHash": "Axrg68c1UYAJ3io/abFYiBCwN+h9ORMO88c+VtsbW+W8UzwUky7bfJrqRycRVYF4aGEoAuF3GI/736j4q3fKUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eremeevad\\Desktop\\Новая папка (2)\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\eremeevad\\.nuget\\packages\\microsoft.data.sqlite\\8.0.5\\microsoft.data.sqlite.8.0.5.nupkg.sha512",
-    "C:\\Users\\eremeevad\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.5\\microsoft.data.sqlite.core.8.0.5.nupkg.sha512",
-    "C:\\Users\\eremeevad\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
-    "C:\\Users\\eremeevad\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
-    "C:\\Users\\eremeevad\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
-    "C:\\Users\\eremeevad\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
-    "C:\\Users\\eremeevad\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\ASP_NET Chat\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
