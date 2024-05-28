@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eremeevad\\Desktop\\Новая папка (2)\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Рабочий стол\\ASP_NET Chat\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eremeevad\\Desktop\\Новая папка (2)\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Рабочий стол\\ASP_NET Chat\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eremeevad\\Desktop\\Новая папка (2)\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\ASP_NET Chat\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj",
         "projectName": "ASP.NET SignalR",
-        "projectPath": "C:\\Users\\eremeevad\\Desktop\\Новая папка (2)\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj",
-        "packagesPath": "C:\\Users\\eremeevad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eremeevad\\Desktop\\Новая папка (2)\\ASP.NET SignalR\\ASP.NET SignalR\\obj\\",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\ASP_NET Chat\\ASP.NET SignalR\\ASP.NET SignalR\\ASP.NET SignalR.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\ASP_NET Chat\\ASP.NET SignalR\\ASP.NET SignalR\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\eremeevad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,42 +38,22 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.Data.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
