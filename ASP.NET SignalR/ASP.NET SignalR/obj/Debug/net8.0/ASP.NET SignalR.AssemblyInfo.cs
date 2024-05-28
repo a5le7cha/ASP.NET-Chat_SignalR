@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET SignalR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f114f38c9b8cb301ba089bce3627727af61abdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df4bacf25050a6616566fa5b0e9350b815b5c661")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET SignalR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET SignalR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
